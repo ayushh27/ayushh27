@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h1 align="center">Hello, World! 👋, I'm Ayush Mishra</h1>
+<h3 align="center">A Passionate Software Developer from India</h3>
+
+🎓 Armed with a solid foundation in computer science and a thirst for knowledge, I've successfully completed my MCA from [Your University]. Throughout my academic journey, I've delved into a diverse array of subjects, honing my skills in areas such as software development, database management, algorithms, and system design.
+
+💻 As a tech-savvy MCA graduate, I bring to the table:
+
+- Proficiency in languages such as C/C++, Java, C#.
+- Hands-on experience in developing and deploying applications, showcasing a keen understanding of software development life cycle (SDLC).
+- Adeptness in database management, with experience in designing and optimizing databases to ensure seamless data operations.
+
+🌐 Eager to contribute to the dynamic world of technology, I am actively seeking opportunities to collaborate on innovative projects and leverage my skills to make a meaningful impact. My academic journey has instilled in me a curiosity for exploring emerging technologies and a commitment to staying abreast of industry trends.
+
+🔍 In addition to my academic achievements, I've undertaken few projects that have allowed me to apply theoretical knowledge to real-world scenarios. This practical exposure has further enriched my problem-solving abilities and fostered a proactive approach to challenges.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushh27&label=Profile%20views&color=0e75b6&style=flat" alt="ayushh27" /> </p>
 
