@@ -1,8 +1,9 @@
 <h1 align="center">Hello, World! 👋, I'm Ayush Mishra</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-🎓 Armed with a solid foundation in computer science and a thirst for knowledge, I've successfully completed my MCA from [Your University]. Throughout my academic journey, I've delved into a diverse array of subjects, honing my skills in areas such as software development, database management, algorithms, and system design.
+🎓 Armed with a solid foundation in computer science and a thirst for knowledge, I am on my way to complete my MCA from Amity University, Noida. On my ongoing academic journey, I've delved into a diverse array of subjects, honing my skills in areas such as software development, database management, algorithms, and system design.
 
+ 
 💻 As a tech-savvy MCA graduate, I bring to the table:
 
 - Proficiency in languages such as C/C++, Java, C#.
